@@ -1,0 +1,41 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built output files
+dist/
+build/
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*~
+
+# Ignore logs and cache files
+logs/
+.cache/
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
+
+# Ignore test coverage files
+coverage/
+
+# Ignore editor configuration files
+.editorconfig
+.eslint*
+.prettier*
+
+# Ignore TypeScript build artifacts
+*.js
+*.js.map
+*.d.ts
+
+# Ignore any sensitive or personal files
+config/secret-config.json
+private.key
