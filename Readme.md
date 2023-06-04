@@ -71,6 +71,7 @@ Make sure to obtain a valid API key from the Lord of the Rings API, as the authe
 NOTE: There's a popular error that is gotten due to the fact that access for authenticated users to all endpoints of the lord of the rings API being _limited_  to 100 requests every 10 minutes. This is shown below:
 
 ![enter image description here](https://res.cloudinary.com/dtvv1oyyj/image/upload/v1685838054/Screenshot_2023-06-04_at_01.19.17.png)
+![enter image description here](https://res.cloudinary.com/zusco/image/upload/v1685846661/Screenshot_2023-06-04_at_03.44.17_xajkzc.png)
 
 
 
